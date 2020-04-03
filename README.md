@@ -2,7 +2,7 @@
 
 This repository contains our work on Offline Handwriting Recognition.<br>
 This project was done as part of Dr. Joydeep Ghosh's Advanced Predictive Modeling course during the MSBA Program at UT Austin.<br>
-Team Members: Mohini Agarwal, Akankshi Mody, Logan Liu, Shane Kok<br><br>
+Team Members: Mohini Agarwal, Akankshi Mody, Logan Liu, Shane Kok<br>
 
 A detailed report on this project can be found [here](https://medium.com/analytics-vidhya/handwriting-text-recognition-3712978249da)<br>
 
