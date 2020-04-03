@@ -1,9 +1,12 @@
 # Handwriting Text Recognition for IAM Dataset
 
 This repository contains our work on Offline Handwriting Recognition.<br>
-A detailed report on this project can be found [here](https://medium.com/analytics-vidhya/handwriting-text-recognition-3712978249da)
+This project was done as part of Dr. Joydeep Ghosh's Advanced Predictive Modeling course during the MSBA Program at UT Austin.<br>
+Team Members: Mohini Agarwal, Akankshi Mody, Logan Liu, Shane Kok<br><br>
 
-Handwritten Text Recongnition implemented using two initial approaches namely KNN on IAM dataset [1] and CNN on character only dataset [2].
+A detailed report on this project can be found [here](https://medium.com/analytics-vidhya/handwriting-text-recognition-3712978249da)<br>
+
+We implemented Handwritten Text Recongnition implemented using two initial approaches namely KNN on IAM dataset [1] and CNN on character only dataset [2].
 
 ## Initial Approaches: Approach 1
 
