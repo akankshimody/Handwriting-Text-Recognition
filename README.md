@@ -1,6 +1,7 @@
 # Handwriting Text Recognition for IAM Dataset
 
-This repository contains our work on Offline Handwriting Recognition.
+This repository contains our work on Offline Handwriting Recognition.<br>
+A detailed report on this project can be found [here](https://medium.com/analytics-vidhya/handwriting-text-recognition-3712978249da)
 
 Handwritten Text Recongnition implemented using two initial approaches namely KNN on IAM dataset [1] and CNN on character only dataset [2].
 
